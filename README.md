@@ -1,2 +1,2 @@
 # PongGame
-Classical Pong Game in Python
+Classical Pong Game
