@@ -1,2 +1,2 @@
 # PongGame
-Classical Pong Game
+Classic Pong Game
